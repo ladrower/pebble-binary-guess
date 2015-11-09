@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ladrower@gmail.com",
+    "longName": "Guess the number",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Guess the number",
+    "uuid": "23fb24ce-ac4a-4c63-a503-bdee44c745ba",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
